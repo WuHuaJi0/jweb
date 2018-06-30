@@ -1,2 +1,3 @@
-### jweb 
-A tiny webserver writen by c language.
+### jweb
+Try to code a web server with c language.
+
